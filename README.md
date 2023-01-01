@@ -1,5 +1,5 @@
 # Reading_List
-This is a compilation of the titles of books I have read since 2021 presented in the form of a wordmap
+This is a compilation of the books I have read since 2021, presented in the form of a wordmap
 
 Follow me as I continue to track the words conditioning my mind throughout the year
 
