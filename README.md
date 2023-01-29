@@ -6,6 +6,5 @@ This is my attempt to track the words conditioning my mind throughout the year. 
 <p  align="center">
   <img  src="https://user-images.githubusercontent.com/92489108/210157594-8eb04047-bac7-4981-bb51-71b69bc3a425.png" />
   
-  <img src="https://user-images.githubusercontent.com/92489108/211017877-7b70474e-273b-4962-9f7d-9e1078da1f8b.png" />
+  <img src="https://user-images.githubusercontent.com/92489108/215351233-a147caba-c8f0-4abc-816f-a177394eaad4.png" />
 </P>
-
