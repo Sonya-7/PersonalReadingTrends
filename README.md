@@ -1,6 +1,6 @@
 # Reading_List
 
-This repository is a compilation of the books I have read since January 2021; presented in the form of a wordmap and an interactive dashboard.
+This repository is a compilation of the books I have read (cover to cover) since January 2021; presented in the form of a wordmap and an interactive dashboard.
 
 It's my attempt at tracking the words conditioning my mind throughout the year. Since we are conditioned daily through language in casual encounters, my aim is to be more intentional about getting certain words and ideas in my consciousness on a daily basis/more often.
 
