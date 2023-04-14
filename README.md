@@ -5,7 +5,7 @@ This repository is a compilation of the books I have read (cover to cover) since
 It's my attempt at tracking the words conditioning my mind throughout the year. Since we are conditioned daily through language in casual encounters, my aim is to be more intentional about getting certain words and ideas in my consciousness on a daily basis/more often.
 
 <p  align="center">
-  <img  src="https://user-images.githubusercontent.com/92489108/210157594-8eb04047-bac7-4981-bb51-71b69bc3a425.png" />
+  <img  src="https://user-images.githubusercontent.com/92489108/232074755-e083785d-e0be-4aae-8e51-e9546e1ca92f.png" />
   
   <img  src="https://user-images.githubusercontent.com/92489108/222938780-304aa6a0-8e90-4765-bbe3-acc2be140547.png" />
 </P>
