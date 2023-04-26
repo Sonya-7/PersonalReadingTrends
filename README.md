@@ -7,8 +7,10 @@ It's my attempt at tracking the words conditioning my mind throughout the year. 
 <p  align="center">
   <img  src="https://user-images.githubusercontent.com/92489108/232074755-e083785d-e0be-4aae-8e51-e9546e1ca92f.png" />
   
-  <img  src="https://user-images.githubusercontent.com/92489108/233167390-b728c444-526e-427c-9fe6-912a323be5d0.png" />
+  <img  src="https://user-images.githubusercontent.com/92489108/234645009-3beaa9ce-f557-4c0c-ad14-2887af3af10b.png" />
 </P>
+
+
 
 
 
