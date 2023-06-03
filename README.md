@@ -6,7 +6,7 @@ It's my attempt at tracking the words that are conditioning my mind throughout t
 
 <p  align="center">
   <img  src="https://github.com/Sonya-7/Reading_List/assets/92489108/0323b376-2667-484c-a462-eb30792e800b" width="425" height=50%/>
-  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+  &nbsp; &nbsp; &nbsp;
   <img  src="https://github.com/Sonya-7/Reading_List/assets/92489108/a65bf904-2561-40a9-9cee-5f965a7d16f2" width="425" height=50%/>
   
    <img  src="https://github.com/Sonya-7/Reading_List/assets/92489108/7d21eae0-b399-41e9-9d61-603a7791f65a" />
