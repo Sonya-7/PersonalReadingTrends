@@ -2,7 +2,7 @@
 
 This repository contains a compilation of the books that I have read (cover to cover) since January 2021; presented in the form of a wordmap and an interactive dashboard.
 
-It's my attempt at tracking the words that are conditioning my mind throughout the year. Since we are conditioned daily through language in casual encounters, my aim is to be more intentional about getting certain words and ideas in my consciousness on a daily basis/more often.
+It's my attempt at tracking the words that are conditioning my mind throughout the year. Since we are conditioned daily through language in casual encounters, my aim is to be more intentional about getting certain words and ideas in my consciousness on a daily basis / more often.
 
 <p  align="center">
   <img  src="https://github.com/Sonya-7/Reading_List/assets/92489108/cde44f7f-f7d2-4667-97ec-181ab4dab112" width="353" height=50%/>
