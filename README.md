@@ -22,7 +22,9 @@ It's my attempt at tracking the words that are conditioning my mind throughout t
   <p  align="center">
    <img  src="https://github.com/Sonya-7/Reading_List/assets/92489108/7d21eae0-b399-41e9-9d61-603a7791f65a" />
   
-  <img  src="https://github.com/Sonya-7/Reading_List/assets/92489108/1f4d2208-392f-46e4-9fd6-220ff86f0049" width=75% height=75%/>
+  <img  src="https://github.com/Sonya-7/Reading_List/assets/92489108/83708dd1-bd88-40fe-8285-88bfcc432137" width=75% height=75%/>
+
+   <img  src="https://github.com/Sonya-7/Reading_List/assets/92489108/210303d3-6833-4a0c-94cf-846998965f09" width=75% height=75%/>
  
 </P> --->
 
