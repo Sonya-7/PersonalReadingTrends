@@ -1,27 +1,27 @@
 # Reading_List
 
-This repository contains a compilation of the books that I have read (cover to cover) since January 2021; presented in the form of a wordmap and an interactive dashboard.
+This repository contains a compilation of the books that I have read (cover to cover) since January 2021; presented in the form of a word cloud and an interactive dashboard.
 
-It's my attempt at tracking the words that are conditioning my mind throughout the year. Since we are conditioned daily through language in casual encounters, my aim is to be more intentional about getting certain words and ideas in my consciousness on a daily basis/more often.
+It's my attempt at tracking the words that are conditioning my mind throughout the year. According to [Book Riot](https://bookriot.com/how-many-books-does-the-average-person-read/), the average American reads 12 books per year. This statistic much higher than I anticipated and it motivatied me to do more non-academic reading. Additionally, since we are conditioned daily through language in casual encounters, my aim is to be more intentional about getting certain words and ideas in my consciousness on a daily basis/more often.
 
 ## Preview of ETL Insights
 <p  align="center">
-  <img  src="https://github.com/Sonya-7/Reading_List/assets/92489108/39daafe6-ac98-4a03-9a1a-0ec316898b2a" width="358" height=50%/>
+  <img  src="https://github.com/Sonya-7/Reading_List/assets/92489108/8205c538-805c-4108-a72b-239a4e37e397" width="358" height=50%/>
   &nbsp;
   <img  src="https://github.com/Sonya-7/Reading_List/assets/92489108/4d1c1718-8bd5-423d-86e0-d60f6bf3176d" width="358" height=50%/>
 
-## Preview of Dashboard Insights
+## Preview of Word Cloud containing Book Titles
+<p  align="center">
+  <img  src="https://github.com/Sonya-7/Reading_List/assets/92489108/d17f4d6c-3a73-41c8-906c-c29b762af90c" width="358" height=50%/>
+  &nbsp;
+  <img  src="https://github.com/Sonya-7/Reading_List/assets/92489108/117b1b44-808c-45b5-a60a-efc40b06ca6c" width="358" height=50%/>
+
+## Preview of Dashboard Insights on Reading Patterns
 <p  align="center">
   <img  src="https://github.com/Sonya-7/Reading_List/assets/92489108/80dfeec2-9959-447f-83c4-2add97e2e4b9" width="353" height=50%/>
   &nbsp;
   <img  src="https://github.com/Sonya-7/Reading_List/assets/92489108/f7690a2f-c669-431d-a90b-e0c461126113" width="353" height=50%/>
   
-</P>
-  
-<p  align="center">
-  <img  src="https://github.com/Sonya-7/Reading_List/assets/92489108/d17f4d6c-3a73-41c8-906c-c29b762af90c" width="358" height=50%/>
-  &nbsp;
-  <img  src="https://github.com/Sonya-7/Reading_List/assets/92489108/117b1b44-808c-45b5-a60a-efc40b06ca6c" width="358" height=50%/>
 
 <!--- not sure if i want to have 1 branch per year or leave it here
  </P>  
