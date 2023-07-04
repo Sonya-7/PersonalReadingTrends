@@ -18,9 +18,9 @@ It's my attempt at tracking the words that are conditioning my mind throughout t
 
 ## Preview of Dashboard Insights on Reading Patterns
 <p  align="center">
-  <img  src="https://github.com/Sonya-7/Reading_List/assets/92489108/80dfeec2-9959-447f-83c4-2add97e2e4b9" width="353" height=50%/>
+  <img  src="https://github.com/Sonya-7/Reading_List/assets/92489108/18d2d12c-57a1-4b0c-a6ee-807d7a224faf" width="353" height=50%/>
   &nbsp;
-  <img  src="https://github.com/Sonya-7/Reading_List/assets/92489108/f7690a2f-c669-431d-a90b-e0c461126113" width="353" height=50%/>
+  <img  src="https://github.com/Sonya-7/Reading_List/assets/92489108/3ff88cc2-192c-4b29-b991-90d14692fe64" width="353" height=50%/>
   
 
 <!--- not sure if i want to have 1 branch per year or leave it here
