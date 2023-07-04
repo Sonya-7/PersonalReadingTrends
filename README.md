@@ -6,9 +6,9 @@ It's my attempt at tracking the words that are conditioning my mind throughout t
 
 ## Preview of ETL Insights
 <p  align="center">
-  <img  src="https://github.com/Sonya-7/Reading_List/assets/92489108/8205c538-805c-4108-a72b-239a4e37e397" width="358" height=50%/>
+  <img  src="https://github.com/Sonya-7/Reading_List/assets/92489108/8205c538-805c-4108-a72b-239a4e37e397" width="358" height=255/>
   &nbsp;
-  <img  src="https://github.com/Sonya-7/Reading_List/assets/92489108/4d1c1718-8bd5-423d-86e0-d60f6bf3176d" width="358" height=50%/>
+  <img  src="https://github.com/Sonya-7/Reading_List/assets/92489108/4d1c1718-8bd5-423d-86e0-d60f6bf3176d" width="358" height=255/>
 
 ## Preview of Word Cloud containing Book Titles
 <p  align="center">
@@ -18,12 +18,12 @@ It's my attempt at tracking the words that are conditioning my mind throughout t
 
 ## Preview of Dashboard Insights on Reading Patterns
 <p  align="center">
-  <img  src="https://github.com/Sonya-7/Reading_List/assets/92489108/18d2d12c-57a1-4b0c-a6ee-807d7a224faf" width="353" height=50%/>
+  <img  src="https://github.com/Sonya-7/Reading_List/assets/92489108/6cf40e9e-95ba-4773-b04a-c72fe18d31d6" width="353" height=50%/>
   &nbsp;
-  <img  src="https://github.com/Sonya-7/Reading_List/assets/92489108/3ff88cc2-192c-4b29-b991-90d14692fe64" width="353" height=50%/>
+  <img  src="https://github.com/Sonya-7/Reading_List/assets/92489108/a1b089a6-749e-452e-8d95-95a38433b016" width="353" height=50%/>
   
 
-<!--- not sure if i want to have 1 branch per year or leave it here
+<!--- not sure if I want to have 1 branch per year or leave it here
  </P>  
   
   <p  align="center">
