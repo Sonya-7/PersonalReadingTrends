@@ -2,7 +2,7 @@
 
 This repository contains a compilation of the books that I have read (cover to cover) since January 2021; presented in the form of a word cloud and an interactive dashboard.
 
-It's my attempt at tracking the words that are conditioning my mind throughout the year. According to Book Riot, the average American reads [12](https://bookriot.com/how-many-books-does-the-average-person-read/) books per year; [65%](https://www.statista.com/statistics/222754/book-format-used-by-readers-in-the-us/) of which are print books. This statistic was much higher than I anticipated and it motivated me to do more non-academic reading. Additionally, since we are conditioned daily through language in casual encounters, my aim is to be more intentional about getting certain words and ideas into my consciousness on a daily basis.
+It's my attempt at tracking the words that are conditioning my mind throughout the year. The average American reads [12](https://bookriot.com/how-many-books-does-the-average-person-read/) books per year; [65%](https://www.statista.com/statistics/222754/book-format-used-by-readers-in-the-us/) of which are print books. This statistic was much higher than I anticipated and it motivated me to do more non-academic reading. Additionally, since we are conditioned daily through language in casual encounters, my aim is to be more intentional about getting certain words and ideas into my consciousness on a daily basis.
 
 ## Preview of ETL Insights
 <p  align="center">
