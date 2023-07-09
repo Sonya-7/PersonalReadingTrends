@@ -1,8 +1,12 @@
 # Reading_List
 
-This repository contains a compilation of the books I have read (cover to cover) since January 2021; presented in the form of a word cloud and an interactive dashboard.
+This repository showcases a comprehensive collection of books that I have read from cover to cover since January 2021. It presents an engaging word cloud and an interactive dashboard, offering a captivating visualization of my literary journey.
 
-It's my attempt at tracking the words that are conditioning my mind throughout the year. The average American reads [12](https://bookriot.com/how-many-books-does-the-average-person-read/) books per year; [65%](https://www.statista.com/statistics/222754/book-format-used-by-readers-in-the-us/) of which are print books. This statistic was much higher than I anticipated and this motivated me to do more non-academic reading. Additionally, since we are conditioned daily through language in casual encounters, I aim to be more intentional about getting certain words and ideas into my consciousness daily.
+This personal project serves as a means to meticulously trace the words that have shaped my mind throughout the year. It's intriguing to note that, on average, Americans read [12](https://bookriot.com/how-many-books-does-the-average-person-read/) books annually, with [65%](https://www.statista.com/statistics/222754/book-format-used-by-readers-in-the-us/) of them being print books. This statistic surpassed my initial expectations and inspired me to delve into a wider range of non-academic literature.
+
+Furthermore, in recognizing the profound influence of everyday language in our lives, I am devoted to purposefully incorporating specific words and ideas into my consciousness on a daily basis. This endeavor serves as a deliberate effort to enhance my awareness and expand my intellectual horizons.
+
+By combining my passion for data science with my love for learning, this project showcases both my technical expertise and my commitment to personal growth.
 
 ## Preview of ETL Insights
 <p  align="center">
