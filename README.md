@@ -6,7 +6,7 @@ This personal project serves as a means to meticulously trace the words that hav
 
 Furthermore, in recognizing the profound influence of everyday language in our lives, I am devoted to purposefully incorporating specific words and ideas into my consciousness on a daily basis. This endeavor serves as a deliberate effort to enhance my awareness and expand my intellectual horizons.
 
-By combining my passion for data science with my love for learning, this project showcases both my technical expertise and my commitment to personal growth.
+By combining my passion for data science with my love for learning, this project displays both my technical expertise and my commitment to personal growth.
 
 ## Preview of ETL Insights
 <p  align="center">
