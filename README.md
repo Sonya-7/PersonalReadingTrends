@@ -10,9 +10,9 @@ By combining my passion for data science with my love for learning, this project
 
 ## Preview of ETL Insights
 <p  align="center">
-  <img  src="https://github.com/Sonya-7/Reading_List/assets/92489108/82767cf0-5e7b-40c2-a9f1-1a197199a9a4" width="358" height=255/>
+  <img  src="https://github.com/Sonya-7/Reading_List/assets/92489108/5bcd2789-52ec-4ae8-81d4-48f02bb8d404" width="358" height=255/>
   &nbsp;
-  <img  src="https://github.com/Sonya-7/Reading_List/assets/92489108/4d1c1718-8bd5-423d-86e0-d60f6bf3176d" width="358" height=255/>
+  <img  src="https://github.com/Sonya-7/Reading_List/assets/92489108/b322386f-e12b-418a-a594-e3b39ac597ca" width="358" height=255/>
 
 ## Preview of Word Cloud containing Book Titles
 <p  align="center">
