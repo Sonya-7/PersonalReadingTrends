@@ -1,6 +1,6 @@
 # Reading_List
 
-This repository showcases a comprehensive collection of books that I have read from cover to cover since January 2021. It presents an engaging word cloud and an interactive dashboard, offering a captivating visualization of my literary journey.
+This repository showcases a comprehensive collection of books that I have read since January 2021. It presents an engaging word cloud and an interactive dashboard, offering a captivating visualization of my literary journey.
 
 This personal project serves as a means to meticulously trace the words that have shaped my mind throughout the year. It's intriguing to note that, on average, Americans read [12](https://bookriot.com/how-many-books-does-the-average-person-read/) books annually, with [65%](https://www.statista.com/statistics/222754/book-format-used-by-readers-in-the-us/) of them being print books. This statistic surpassed my initial expectations and inspired me to delve into a wider range of non-academic literature.
 
