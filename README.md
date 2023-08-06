@@ -10,11 +10,11 @@ By combining my passion for data science with my love for learning, this project
 
 ## Preview of ETL Insights
 <p  align="center">
-  <img  src="https://github.com/Sonya-7/Reading_List/assets/92489108/5bcd2789-52ec-4ae8-81d4-48f02bb8d404" width="358" height=255/>
+  <img  src="https://github.com/Sonya-7/Reading_List/assets/92489108/5bcd2789-52ec-4ae8-81d4-48f02bb8d404" width="358" height="255"/>
   &nbsp;
-  <img  src="https://github.com/Sonya-7/Reading_List/assets/92489108/0cacce8d-06e4-4144-b3dd-b50488dc1869" width="358" height=255/>
+  <img  src="https://github.com/Sonya-7/Reading_List/assets/92489108/0cacce8d-06e4-4144-b3dd-b50488dc1869" width="358" height="255"/>
 
-## Preview of Word Cloud containing Book Titles
+## Preview of Word Cloud containing Words in Book Titles
 <p  align="center">
   <img  src="https://github.com/Sonya-7/Reading_List/assets/92489108/7f837679-bcbd-4a2c-9b99-dfac7f5c68d4" width="358" height=50%/>
   &nbsp;
@@ -27,7 +27,7 @@ By combining my passion for data science with my love for learning, this project
   <img  src="https://github.com/Sonya-7/Reading_List/assets/92489108/c8a4099b-9da5-456c-9c36-37284ce17c39" width="353" height=50%/>
   
 
-<!--- not sure if I want to have 1 branch per year or leave it here
+<!--- not sure if I want to have 1 branch per year or leave it all here... 
  </P>  
   
   <p  align="center">
