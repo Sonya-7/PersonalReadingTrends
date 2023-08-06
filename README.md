@@ -12,7 +12,7 @@ By combining my passion for data science with my love for learning, this project
 <p  align="center">
   <img  src="https://github.com/Sonya-7/Reading_List/assets/92489108/5bcd2789-52ec-4ae8-81d4-48f02bb8d404" width="358" height=255/>
   &nbsp;
-  <img  src="https://github.com/Sonya-7/Reading_List/assets/92489108/b322386f-e12b-418a-a594-e3b39ac597ca" width="358" height=255/>
+  <img  src="https://github.com/Sonya-7/Reading_List/assets/92489108/0cacce8d-06e4-4144-b3dd-b50488dc1869" width="358" height=255/>
 
 ## Preview of Word Cloud containing Book Titles
 <p  align="center">
