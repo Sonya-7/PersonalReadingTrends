@@ -4,7 +4,7 @@ This repository showcases a comprehensive collection of books that I have read s
 
 This personal project serves as a means to meticulously trace the words that have shaped my mind throughout the year. It's intriguing to note that, on average, Americans read [12](https://bookriot.com/how-many-books-does-the-average-person-read/) books annually, with [65%](https://www.statista.com/statistics/222754/book-format-used-by-readers-in-the-us/) of them being print books. This statistic surpassed my initial expectations and inspired me to delve into a broader range of literature, setting the goal of reading at least 1 book per month.
 
-Furthermore, in recognizing the profound influence of everyday language in our lives, I am devoted to purposefully incorporating specific words and ideas into my consciousness on a daily basis. This endeavor is a deliberate effort to enhance my awareness and expand my intellectual horizons.
+Furthermore, in recognizing the profound influence of language in our daily lives, I am devoted to purposefully incorporating specific words and ideas into my consciousness on a daily basis. This endeavor is a deliberate effort to enhance my awareness and expand my intellectual horizons.
 
 By combining my passion for data science with my love for learning, this project displays my technical expertise and commitment to personal growth.
 
@@ -14,7 +14,7 @@ By combining my passion for data science with my love for learning, this project
   &nbsp;
   <img  src="https://github.com/Sonya-7/Reading_List/assets/92489108/b69c3377-a4b5-4921-8584-c8613b6fa833" width="358" height="255"/>
 
-## Preview of Word Cloud Containing Words in Book Titles
+## Preview of Word Clouds Containing Dominant Words in Book Titles
 <p  align="center">
   <img  src="https://github.com/Sonya-7/Reading_List/assets/92489108/7f837679-bcbd-4a2c-9b99-dfac7f5c68d4" width="358" height=50%/>
   &nbsp;
