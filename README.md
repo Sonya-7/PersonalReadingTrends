@@ -1,8 +1,8 @@
 # Reading_List
 
-This repository showcases a comprehensive collection of books that I have read since January 2021. It presents an engaging word cloud and an interactive dashboard, offering a captivating visualization of my literary journey.
+This repository showcases a comprehensive collection of books that I have read since January 2021. It presents engaging word clouds and an interactive dashboard, offering a captivating visualization of my literary journey.
 
-This personal project serves as a means to meticulously trace the words that have shaped my mind throughout the year. It's intriguing to note that, on average, Americans read [12](https://bookriot.com/how-many-books-does-the-average-person-read/) books annually, with [65%](https://www.statista.com/statistics/222754/book-format-used-by-readers-in-the-us/) of them being print books. This statistic surpassed my initial expectations and inspired me to delve into a broader range of literature, setting the goal of reading at least 1 book per month.
+This personal project serves as a means to meticulously trace the words that have shaped my mind throughout the year. It's intriguing to note that, on average, Americans read [12](https://bookriot.com/how-many-books-does-the-average-person-read/) books annually, with [65%](https://www.statista.com/statistics/222754/book-format-used-by-readers-in-the-us/) of them being print books. This statistic surpassed my initial expectation and inspired me to delve into a broader range of literature, setting the goal of reading at least 1 book per month.
 
 Furthermore, in recognizing the profound influence of language in our daily lives, I am devoted to purposefully incorporating specific words and ideas into my consciousness on a daily basis. This endeavor is a deliberate effort to enhance my awareness and expand my intellectual horizons.
 
