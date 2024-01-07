@@ -1,4 +1,4 @@
-# Reading_List
+# Reading Trends
 
 This repository showcases a comprehensive collection of books I have read since January 2021. It presents engaging word clouds and an interactive dashboard, offering a captivating visualization of my literary journey.
 
