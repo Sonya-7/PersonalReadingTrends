@@ -8,6 +8,19 @@ Furthermore, in recognizing the profound influence of language in our daily live
 
 By combining my passion for data science with my love for learning, this project displays my technical expertise and commitment to personal growth.
 
+### Programming Language Used:
+- Python
+
+### File Type:
+- Jupyter Notebook
+- Power Bi desktop file
+
+### Packages Used:
+- Pandas
+- Matplotlib
+- seaborn
+- plotly
+
 ## Preview of ELT Insights
 <p  align="center">
   <img  src="https://github.com/Sonya-7/Reading_List/assets/92489108/be37116e-6731-415b-bbdf-587ae3491e5f" width="358" height="255"/>
