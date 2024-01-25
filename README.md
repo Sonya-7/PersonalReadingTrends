@@ -13,13 +13,16 @@ By combining my passion for data science with my love for learning, this project
 
 ### File Type:
 - Jupyter Notebook
-- Power Bi desktop file
+- Power Bi Desktop File
 
 ### Packages Used:
+- Numpy
 - Pandas
+- Seaborn
+- Wordcloud
 - Matplotlib
-- seaborn
-- plotly
+- Regular Expressions
+- Natural Language Toolkit
 
 ## Preview of ELT Insights
 <p  align="center">
