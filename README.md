@@ -8,7 +8,7 @@ Furthermore, in recognizing the profound influence of language in our daily live
 
 By combining my passion for data science with my love for learning, this project displays my technical expertise and commitment to personal growth.
 
-### Programming Language Used:
+### Programming Language(s) Used:
 - Python
 
 ### File Type:
