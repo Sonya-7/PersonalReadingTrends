@@ -11,11 +11,11 @@ By combining my passion for data science with my love for learning, this project
 ### Programming Language(s) Used:
 - Python
 
-### File Type:
+### File Type(s):
 - Jupyter Notebook
 - Power Bi Desktop File
 
-### Packages Used:
+### Package(s) Used:
 - Numpy
 - Pandas
 - Seaborn
