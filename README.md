@@ -10,11 +10,7 @@ By combining my passion for data science with my love for learning, this project
 
 ### Programming Language(s) Used:
 - Python
-
-### File Type(s):
-- Jupyter Notebook
-- Power Bi Desktop File
-
+ 
 ### Package(s) Used:
 - Numpy
 - Pandas
@@ -23,6 +19,10 @@ By combining my passion for data science with my love for learning, this project
 - Matplotlib
 - Regular Expressions
 - Natural Language Toolkit
+
+### File Type(s):
+- Jupyter Notebook
+- Power Bi Desktop File
 
 ## Preview of ELT Insights
 <p  align="center">
