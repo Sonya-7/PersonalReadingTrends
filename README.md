@@ -4,7 +4,7 @@ This repository showcases a comprehensive collection of books I have read since 
 
 This project serves as a means to meticulously trace the words that have shaped my mind throughout the year. It is intriguing to note that, on average, Americans read [12](https://bookriot.com/how-many-books-does-the-average-person-read/) books annually, with [65%](https://www.statista.com/statistics/222754/book-format-used-by-readers-in-the-us/) of them being print books. This statistic surpassed my initial expectations and inspired me to delve into a broader range of literature, setting the goal of reading at least 1 book per month.
 
-Furthermore, in recognizing the profound influence of language in our daily lives, I am devoted to purposefully incorporating specific words and ideas into my consciousness on a daily basis. This endeavor is a deliberate effort to enhance my awareness and expand my intellectual horizons.
+Furthermore, in recognizing the profound influence of language in our daily lives, I am devoted to purposefully incorporating specific words and ideas into my consciousness daily. This endeavor is a deliberate effort to enhance my awareness and expand my intellectual horizons.
 
 By combining my passion for data science with my love for learning, this project displays my technical expertise and commitment to personal growth.
 
@@ -22,7 +22,7 @@ By combining my passion for data science with my love for learning, this project
 
 ### File Type(s):
 - Jupyter Notebook
-- Power Bi Desktop File
+- Power BI Desktop File
 
 ## Preview of ELT Insights
 <p  align="center">
