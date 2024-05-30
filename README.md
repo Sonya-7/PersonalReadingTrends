@@ -15,8 +15,8 @@ By combining my passion for data science with my love for learning, this project
 - Numpy
 - Pandas
 - Seaborn
-- Wordcloud
 - Matplotlib
+- Wordcloud
 - Regular Expressions
 - Natural Language Toolkit
 
