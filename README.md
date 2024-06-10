@@ -43,7 +43,6 @@ By combining my passion for data science with my love for learning, this project
   <img  src="https://github.com/Sonya-7/Reading_List/assets/92489108/c8a4099b-9da5-456c-9c36-37284ce17c39" width="353" height=50%/>
   
 
-
   <!--- I'm not sure if I want to have 1 branch per year or leave it all here... 
  </P>  
   <p  align="center">
