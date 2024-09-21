@@ -26,15 +26,15 @@ By combining my passion for data science with my love for learning, this project
 
 ## Preview of ELT Insights
 <p  align="center">
-  <img  src="https://github.com/Sonya-7/Reading_List/assets/92489108/be37116e-6731-415b-bbdf-587ae3491e5f" width="358" height="255"/>
+  <img  src="https://github.com/user-attachments/assets/7e583c0e-cc30-4cd7-a3f5-852b4cbea259" width="358" height="255"/>
   &nbsp;
-  <img  src="https://github.com/Sonya-7/Reading_List/assets/92489108/b69c3377-a4b5-4921-8584-c8613b6fa833" width="358" height="255"/>
+  <img  src="https://github.com/user-attachments/assets/02a7277d-5e21-4ced-99f3-d3cf89f68120" width="358" height="255"/>
 
 ## Preview of Word Clouds Containing Dominant Words in Book Titles
 <p  align="center">
-  <img  src="https://github.com/Sonya-7/Reading_List/assets/92489108/7f837679-bcbd-4a2c-9b99-dfac7f5c68d4" width="358" height=50%/>
+  <img  src="https://github.com/user-attachments/assets/eeef7df2-0902-4ab7-8c01-38fd1892c32c" width="358" height=50%/>
   &nbsp;
-  <img  src="https://github.com/Sonya-7/Reading_List/assets/92489108/117b1b44-808c-45b5-a60a-efc40b06ca6c" width="358" height=50%/>
+  <img  src="https://github.com/user-attachments/assets/5d71f38c-384d-465d-bc15-df870bbd7bf7" width="358" height=50%/>
 
 ## Preview of Dashboard Insights on Reading Patterns
 <p  align="center">
