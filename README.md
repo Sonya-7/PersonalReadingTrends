@@ -40,9 +40,10 @@ By combining my passion for data science with my love for learning, this project
 
 ## Preview of Dashboard Insights on Reading Patterns
 <p  align="center">
-  <img  src="https://github.com/Sonya-7/Reading_List/assets/92489108/ea74cd45-7fa1-4bdf-b02a-a088532a2e79" width="353" height=50%/>
+  <img  src="https://github.com/user-attachments/assets/0ac5bcbd-d2db-4eb1-a776-08222e7e7964" width="353" height=50%/>
   &nbsp;
-  <img  src="https://github.com/Sonya-7/Reading_List/assets/92489108/c8a4099b-9da5-456c-9c36-37284ce17c39" width="353" height=50%/>
+  <img  src="https://github.com/user-attachments/assets/4f5b5598-6ed5-4ada-827d-a6517ddd5849" width="353" height=50%/>
+
   
 
   <!--- I'm not sure if I want to have 1 branch per year or leave it all here... 
