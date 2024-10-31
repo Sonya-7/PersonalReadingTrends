@@ -26,15 +26,17 @@ By combining my passion for data science with my love for learning, this project
 
 ## Preview of ELT Insights
 <p  align="center">
-  <img  src="https://github.com/user-attachments/assets/7e583c0e-cc30-4cd7-a3f5-852b4cbea259" width="358" height="255"/>
+   <img  src="https://github.com/user-attachments/assets/daedca24-992b-4439-be21-a779e2e7e51e" width="358" height="255"/>
   &nbsp;
-  <img  src="https://github.com/user-attachments/assets/02a7277d-5e21-4ced-99f3-d3cf89f68120" width="358" height="255"/>
+  <img  src="https://github.com/user-attachments/assets/cb82865b-8184-4d86-9162-799aea122456" width="358" height="255"/>
 
 ## Preview of Word Clouds Containing Dominant Words in Book Titles
-<p  align="center">
-  <img  src="https://github.com/user-attachments/assets/eeef7df2-0902-4ab7-8c01-38fd1892c32c" width="358" height=50%/>
+<p  align="center"> 
+ <img  src="https://github.com/user-attachments/assets/2cc2af8c-bf8a-4873-96e7-ca9d56efe4eb" width="258" height="25%"/>
   &nbsp;
-  <img  src="https://github.com/user-attachments/assets/5d71f38c-384d-465d-bc15-df870bbd7bf7" width="358" height=50%/>
+  <img  src="https://github.com/user-attachments/assets/eeef7df2-0902-4ab7-8c01-38fd1892c32c" width="258" height=25%/>
+  &nbsp;
+  <img  src="https://github.com/user-attachments/assets/5d71f38c-384d-465d-bc15-df870bbd7bf7" width="258" height=25%/>
 
 ## Preview of Dashboard Insights on Reading Patterns
 <p  align="center">
