@@ -2,9 +2,9 @@
 
 This repository showcases a comprehensive collection of books I have read since January 2021. It presents engaging word clouds, charts, graphs, and an interactive dashboard, offering a captivating visualization of my literary journey.
 
-This project serves as a means to meticulously trace the words that have shaped my mind throughout the year. It is intriguing to note that, on average, Americans read [12](https://bookriot.com/how-many-books-does-the-average-person-read/) books annually, with [65%](https://www.statista.com/statistics/222754/book-format-used-by-readers-in-the-us/) of them being print books. This statistic surpassed my initial expectations and inspired me to delve into a broader range of literature, setting the goal of reading at least 1 book per month.
+This project serves as a means to meticulously trace the words that have shaped my mind throughout the years. It is intriguing to note that, on average, Americans read [12](https://bookriot.com/how-many-books-does-the-average-person-read/) books annually, with [65%](https://www.statista.com/statistics/222754/book-format-used-by-readers-in-the-us/) of them being print books. This statistic surpassed my initial expectations and inspired me to delve into a broader range of literature, setting the goal of reading at least 1 book per month / 10 pages per day.
 
-Furthermore, in recognizing the profound influence of language in our daily lives, I am devoted to purposefully incorporating specific words and ideas into my consciousness daily. This endeavor is a deliberate effort to enhance my awareness and expand my intellectual horizons.
+Furthermore, in recognizing the profound influence of language in our daily lives, I am committed to purposefully incorporating specific words and ideas into my consciousness daily. This endeavor is a deliberate effort to enhance my social and emotional awareness and broaden my intellectual horizons beyond an academic context.
 
 By combining my passion for data science with my love for learning, this project displays my technical expertise and commitment to personal growth.
 
@@ -14,6 +14,7 @@ By combining my passion for data science with my love for learning, this project
 ### Package(s) Used:
 - Numpy
 - Pandas
+- SQLite3
 - Seaborn
 - Matplotlib
 - Wordcloud
@@ -22,13 +23,18 @@ By combining my passion for data science with my love for learning, this project
 
 ### File Type(s):
 - Jupyter Notebook
+- Database File
+- Comma-Separated Value (CSV) File
 - Power BI Desktop File
 
 ## Preview of ELT Insights
 <p  align="center">
-   <img  src="https://github.com/user-attachments/assets/daedca24-992b-4439-be21-a779e2e7e51e" width="358" height="255"/>
+   <img  src="https://github.com/user-attachments/assets/399daeef-e005-46e4-beb1-c0c3a50c2696" width="258" height=195/>
   &nbsp;
-  <img  src="https://github.com/user-attachments/assets/cb82865b-8184-4d86-9162-799aea122456" width="358" height="255"/>
+   <img  src="https://github.com/user-attachments/assets/6ce2c4c5-2a9a-4070-b3a2-e4ceb1a6219c" width="258" height="255"/>
+  &nbsp;
+  <img  src="https://github.com/user-attachments/assets/4655bbf8-8a07-4226-9688-0301fb1aebb9" width="258" height="255"/>
+
 
 ## Preview of Word Clouds Containing Dominant Words in Book Titles
 <p  align="center"> 
@@ -37,13 +43,13 @@ By combining my passion for data science with my love for learning, this project
   <img  src="https://github.com/user-attachments/assets/eeef7df2-0902-4ab7-8c01-38fd1892c32c" width="258" height=25%/>
   &nbsp;
   <img  src="https://github.com/user-attachments/assets/5d71f38c-384d-465d-bc15-df870bbd7bf7" width="258" height=25%/>
+  
 
 ## Preview of Dashboard Insights on Reading Patterns
 <p  align="center">
-  <img  src="https://github.com/user-attachments/assets/0ac5bcbd-d2db-4eb1-a776-08222e7e7964" width="353" height=50%/>
+  <img  src="https://github.com/user-attachments/assets/84163e78-12c8-4918-8afc-53d1885cd277" width="353" height=50%/>
   &nbsp;
-  <img  src="https://github.com/user-attachments/assets/4f5b5598-6ed5-4ada-827d-a6517ddd5849" width="353" height=50%/>
-
+  <img  src="https://github.com/user-attachments/assets/f61eb454-d7b8-4b27-b8ee-8bf5d1b16ac0" width="353" height=50%/>
   
 
   <!--- I'm not sure if I want to have 1 branch per year or leave it all here... 
